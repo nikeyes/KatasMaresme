@@ -1,7 +1,7 @@
 # KatasMaresme
 Enunciados, discusiones y soluciones de las katas que hacemos en el maresme
 
-**Twitter:** https://twitter.com/search?q=nikey_es%20katas&src=typd
+**Fotos:** https://twitter.com/search?q=nikey_es%20katas&src=typd
 
 * **20/04/2017 - Tamagotchi Kata**  
   * Enunciado: http://agilekatas.co.uk/katas/Tamagotchi-Kata  
