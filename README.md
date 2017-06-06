@@ -2,7 +2,7 @@
 Enunciados y soluciones de las katas que hacemos en el Maresme.  
 Las discusiones las haremos en los Issues.  
 
-**Fotos:** https://twitter.com/search?q=nikey_es%20katas&src=typd
+**Fotos:** https://twitter.com/search?f=tweets&q=nikey_es%20katas%20habitaclia&src=typd
 
 * **20/04/2017 - Tamagotchi Kata**  
   * Enunciado: http://agilekatas.co.uk/katas/Tamagotchi-Kata  
