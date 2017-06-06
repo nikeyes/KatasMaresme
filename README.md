@@ -1,5 +1,6 @@
 # KatasMaresme
-Enunciados, discusiones y soluciones de las katas que hacemos en el maresme
+Enunciados y soluciones de las katas que hacemos en el Maresme.  
+Las discusiones las haremos en los Issues.  
 
 **Fotos:** https://twitter.com/search?q=nikey_es%20katas&src=typd
 
