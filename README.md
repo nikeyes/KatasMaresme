@@ -26,3 +26,8 @@ Las discusiones las haremos en los Issues.
   * Enunciado: https://github.com/JesusSalasMataro/TresEnRayaKata
   * Soluciones propuestas:  
     1. https://github.com/JesusSalasMataro/TresEnRayaKata
+    
+ * **21/06/2017 - Numeros Romanos Kata**  
+  * Enunciado: https://github.com/JesusSalasMataro/NumerosRomanosKata
+  * Soluciones propuestas:  
+    1. https://github.com/alexgraupera/NumerosRomanosKata
