@@ -30,4 +30,5 @@ Las discusiones las haremos en los Issues.
  * **21/06/2017 - Números Romanos Kata**  
    * Enunciado: https://github.com/JesusSalasMataro/NumerosRomanosKata  
    * Soluciones propuestas:  
-     1. https://github.com/alexgraupera/NumerosRomanosKata  
+     1. https://github.com/alexgraupera/NumerosRomanosKata
+	 2. https://github.com/JesusSalasMataro/NumerosRomanosKata
