@@ -31,4 +31,5 @@ Las discusiones las haremos en los Issues.
    * Enunciado: https://github.com/JesusSalasMataro/NumerosRomanosKata  
    * Soluciones propuestas:  
      1. https://github.com/alexgraupera/NumerosRomanosKata
-	 2. https://github.com/JesusSalasMataro/NumerosRomanosKata
+     2. https://github.com/JesusSalasMataro/NumerosRomanosKata
+     3. https://github.com/mdemena/kata-roman-numbers
